@@ -1,7 +1,7 @@
 # MongoNet
 MongoDB Social Network API
 
-https://github.com/AetherealDev/MongoNet/assets/131472446/5cba8d24-0893-4847-8b21-a21386026ec3
+https://github.com/AetherealDev/MongoNet/assets/131472446/dea857a2-9d35-43aa-9966-144499ac2fcd
 
 ## Table of Contents
 - [About](#About)
